@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calluna-movement/static/css/main.5f361e03.chunk.css",
+    "main.js": "/calluna-movement/static/js/main.d023b69b.chunk.js",
+    "main.js.map": "/calluna-movement/static/js/main.d023b69b.chunk.js.map",
+    "runtime-main.js": "/calluna-movement/static/js/runtime-main.c2200141.js",
+    "runtime-main.js.map": "/calluna-movement/static/js/runtime-main.c2200141.js.map",
+    "static/js/2.cf09c1bf.chunk.js": "/calluna-movement/static/js/2.cf09c1bf.chunk.js",
+    "static/js/2.cf09c1bf.chunk.js.map": "/calluna-movement/static/js/2.cf09c1bf.chunk.js.map",
+    "index.html": "/calluna-movement/index.html",
+    "precache-manifest.5d89c1f833b84282b7840e0396107f53.js": "/calluna-movement/precache-manifest.5d89c1f833b84282b7840e0396107f53.js",
+    "service-worker.js": "/calluna-movement/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/calluna-movement/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cf09c1bf.chunk.js.LICENSE.txt": "/calluna-movement/static/js/2.cf09c1bf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/calluna-movement/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2200141.js",
+    "static/js/2.cf09c1bf.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d023b69b.chunk.js"
+  ]
+}
